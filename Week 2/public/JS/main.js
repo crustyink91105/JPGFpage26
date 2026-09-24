@@ -1,0 +1,3 @@
+function myFunction(){
+    window.location.href = "https://www.google.com/search?q=jupiter&rlz=1C1GCPS_enGB1233&oq=jupiter&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhivARjHARixAxiABDIKCAIQLhixAxiABDIKCAMQABixAxiABDIKCAQQABiABBi0BzIKCAUQABiABBi0BzIHCAYQABiABDIQCAcQLhjHARixAxjRAxiABDIKCAgQABixAxiABNIBCDE0NjFqMGo3qAIIsAIB8QXrr0pxt3r5SPEF669Kcbd6-Ug&sourceid=chrome&source=chrome.ob&ie=UTF-8&sei=9Du1atreBZunhbIP063WwAw";
+}
